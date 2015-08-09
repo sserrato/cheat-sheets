@@ -1,0 +1,6 @@
+
+
+// syntax for patch in postman
+{"_id": "55c6dc43092ebfc33c603f58", "name":"update"}
+
+// syntax for patch with embedded resource
