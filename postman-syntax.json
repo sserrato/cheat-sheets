@@ -1,5 +1,13 @@
+// syntax to create a new object
 
 
+{ "user":{
+	"name": "sddd",
+	"email":"joeddddjoe",
+	"passHint": {"question": "qq", "answer":"yes"},
+	"password": "wedddee"
+}
+}
 // syntax for patch in postman
 {"_id": "55c6dc43092ebfc33c603f58", "name":"update"}
 
